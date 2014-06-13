@@ -4,7 +4,7 @@ username: rkoberg
 email: rob@koberg.com
 description: "Mostly on web development"
 baseurl: ""
-url: "http://rkoberg.github.io"
+url: "http://koberg.com"
 highlighter: pygments
 
 # Build settings

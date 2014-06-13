@@ -1,0 +1,12 @@
+# Site settings
+title: koberg.com
+username: rkoberg
+email: rob@koberg.com
+description: "Mostly on web development"
+baseurl: ""
+url: "http://www.koberg.com"
+highlighter: pygments
+
+# Build settings
+markdown: kramdown
+permalink: pretty
